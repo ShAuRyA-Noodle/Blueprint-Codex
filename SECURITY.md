@@ -5,7 +5,7 @@
 **Do not open a public GitHub issue for security vulnerabilities.**
 
 Email: shauryapunj404@gmail.com
-Subject: `[Newspapering SECURITY] <brief description>`
+Subject: `[Blueprint-Codex SECURITY] <brief description>`
 
 Provide repro + impact + suggested fix. Acknowledgement within 48 hours. GitHub's "Security › Report a vulnerability" tab is also accepted.
 
